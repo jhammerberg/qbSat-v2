@@ -1,4 +1,4 @@
-This is the repository for **qbSat v2!** if you are looking for version one, switch to that branch!
+This is the repository for **qbSat v2!** if you are looking for version one, switch to that repository!
 qbSat v2 is a simplified version of the project in an effort to make it more simple and less expensive.
 # qbSat
 (This is just an open source repository of this project. If you're missing something try looking through that google drive folder!)
